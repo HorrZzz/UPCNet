@@ -1,4 +1,4 @@
-# UPC 校园网络认证脚本
+# UPC 网络认证脚本
 
 ![飞天面条教保佑你的代码](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/ramen.svg)
 
